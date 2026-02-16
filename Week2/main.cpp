@@ -64,6 +64,7 @@ int main() {
     MetricOutput.row(1) = arma::rowvec({p,q,r});
     MetricOutput.row(2) = arma::rowvec({t,u,v});
 
+    //Now We will output the given matrix which consistis of the data from the 3 different methods taken here:
     SaveCSV("outputs/metrics.csv", MetricOutput);
     return 0;
 }
