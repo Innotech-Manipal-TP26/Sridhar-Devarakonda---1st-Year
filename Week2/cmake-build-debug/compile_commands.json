@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sridhar-devarakonda/Music/Week2/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles/Week2.dir/main.cpp.o -c /home/sridhar-devarakonda/Music/Week2/main.cpp",
+  "file": "/home/sridhar-devarakonda/Music/Week2/main.cpp",
+  "output": "/home/sridhar-devarakonda/Music/Week2/cmake-build-debug/CMakeFiles/Week2.dir/main.cpp.o"
+}
+]
